@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Netto's 5 Perfect Recipe Book</title>
+        
+        <!-- Dedicaded CSS place -->
+        <style>
+            body{
+                background-color:rgb(224, 248, 255);
+            }
+            table{
+                background-color: rgb(237, 237, 237);
+            }
+            .tclass1{
+                color: rgb(32, 176, 0);
+            }
+            .tclass2{
+                color: rgb(184, 212, 0);
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+        <h1 id="top">Netto's 5 Recipes Book</h1>
+        <p>Hello ladys and gentlemens, today we'll see some recipes to make when you're bored in your home. <br>
+        <ul>
+            <li><a href="#carrot-cake"><strong>Carrot Cake</strong></a></li>
+            <li><a href="#chicken-straganoff"><strong>Chicken Straganoff</strong></a></li>
+            <li><a href="#lasagna"><strong>Lasagna</strong></a></li>
+            <li><a href="#ninho"><strong>Ninho Ice Cream</strong></a></li>
+            <li><a href="#french-fries"><strong>French Fries</strong></a></li>
+        </ul>
+        
+       <strong><em> Note: Here, you can see how we do it in Brazil. <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" alt="Brazil Flag" width="16"></em></strong> </p>
+        <h2 id="carrot-cake">Carrot Cake</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rueblitorte.jpg/220px-Rueblitorte.jpg" alt="A delicious carrot cake">
+        <h4>What you'll need</h4>
+        <table border>
+            <thead>
+                <tr>
+                <th><strong>Ingredients </strong></th>
+                <th><strong>Quantity</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tclass1">
+                    <td>Oil</td>
+                    <td> 1/2 cup</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Grated carrots</td>
+                    <td>3</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Eggs</td>
+                    <td>4</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Sugar</td>
+                    <td>2 cups</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Fluor</td>
+                    <td>2 and 1/2 cups</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Baking Powder</td>
+                    <td>1 spoon</td>
+                </tr>
+            </tbody>
+        </table>
+        <h4>How you can make it in 5 steps</h4>
+        <ol>
+            <li>In a blender, add the carrots, eggs and oil, then blend.</li>
+            <li>Add sugar and blend again for 5 minutes</li>
+            <li>In a bowl or in a a stand mixer, add Fluor and beat again</li>
+            <li>Add the baking powder and mix slowly with a spoon</li>
+            <li>Bake in an oven preheated to 180°C for approximately 40 minutes.</li>
+        </ol>
+     <h2 id="chicken-straganoff">Chicken Stroganoff</h2>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Beef_Stroganoff-02_cropped.jpg/800px-Beef_Stroganoff-02_cropped.jpg" alt="A Delicious Stroganoff" width="230">
+      <h4>What you'll need</h4>
+        <table border>
+            <thead>
+                <tr>
+                <th><strong>Ingredients </strong></th>
+                <th><strong>Quantity</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tclass1">
+                    <td>Chicken Breast Cut Into Cubes</td>
+                    <td>500 grams</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Chopped Onion</td>
+                    <td>1</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Minced Garlic Clove</td>
+                    <td>1</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Salt</td>
+                    <td>To taste</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Chili</td>
+                    <td>To taste</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Butter</td>
+                    <td>1 Spoon</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Mayo</td>
+                    <td>2 Spoon</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Mustard</td>
+                    <td>1 Spoon</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Ketchup</td>
+                    <td>1/2 Cup</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Mushrooms</td>
+                    <td>1 Cup</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Milk Cream</td>
+                    <td>1 Box</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Potato Sticks</td>
+                    <td>To taste</td>
+                </tr>
+            </tbody>
+        </table>
+        <h4>How you can make it in 8 steps</h4>
+        <ol>
+            <li>Season the cubed chicken with salt, pepper and mayonnaise.</li>
+            <li>In a large skillet melt the butter.</li>
+            <li>Fry the onion and garlic.</li>
+            <li>Add the seasoned chicken and let it brown.</li>
+            <li>Add the mushrooms, mustard and then the ketchup.</li>
+            <li>Add the cream and mix well.</li>
+            <li>Make salt and pepper corrections if necessary.</li>
+            <li>Serve with white rice and potatoes chips</li>
+        </ol>
+        <h2 id="lasagna">Lasagna</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lasagna_%281%29.jpg/185px-Lasagna_%281%29.jpg" alt="A Delicios Lasagna">
+        <h4>What you'll need</h4>
+        <table border>
+            <thead>
+                <tr>
+                <th><strong>Ingredients </strong></th>
+                <th><strong>Quantity</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tclass1">
+                    <td>Lasagna Noodles</td>
+                    <td>500 grams</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Ground beef</td>
+                    <td>500 grams</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Milk Cream</td>
+                    <td>2 Boxes</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Butter</td>
+                    <td>3 Spoons</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Fluor</td>
+                    <td>3 Spoons</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Ham</td>
+                    <td>500 grams</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Mozzarella</td>
+                    <td>500 grams</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Salt</td>
+                    <td>To Taste</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Milk</td>
+                    <td>2 Cups</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Grated Onion</td>
+                    <td>1</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Oil</td>
+                    <td>2 Spoons</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Tomato Sauce</td>
+                    <td>1 Box</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Crushed Garlic</td>
+                    <td>3 Teeth</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Grated Cheese</td>
+                    <td>1 Pack</td>
+                </tr>
+            </tbody>
+        </table>
+        <h4>How you can make it in 12 steps</h4>
+        <ol>
+            <li><strong>To Lasagna:</strong> </li>
+            <li>Cook the pasta according to the manufacturer's instructions, pour it into a refractory with ice water so it doesn't stick and set aside. </li>
+            <li><strong>To Bolognese sauce: </strong></li>
+            <li>Saute the garlic, onion, ground beef, tomato sauce, cook for 3 minutes and set aside. </li>
+            <li><strong>To White Sauce: </strong></li>
+            <li>Melt the margarine, add the 3 tablespoons of wheat flour and stir. </li>
+            <li>Slowly pour in the milk and keep stirring. </li>
+            <li>Finally, add the cream, stir for 1 minute and turn off the heat. </li>
+            <li><strong>To Assembly: </strong> </li>
+            <li>Pour a part of the bolognese sauce in a refractory, half of the pasta, half of the ham, half of the mozzarella, all the white sauce and the rest of the pasta. </li>
+            <li>Repeat layers to the edge of the container. </li>
+            <li>Finish with the grated cheese and take it to the high oven (220°C), preheated, for about 20 minutes. </li>
+        </ol>
+     <h2 id="ninho">Ninho Ice Cream</h2>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Vanilla_Ice_Cream_Cone_at_Camp_Manitoulin.jpg" alt="A Delicious Ninho Ice Cream" width="130">
+     <h4>What you'll need</h4>
+        <table border>
+            <thead>
+                <tr>
+                <th><strong>Ingredients </strong></th>
+                <th><strong>Quantity</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tclass1">
+                    <td>Condensed Milk</td>
+                    <td>1 Can</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Milk Cream</td>
+                    <td>1 Box</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Unflavored Gelatin</td>
+                    <td>1/2 Pack</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Water</td>
+                    <td>1 Cup</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Nido Milk</td>
+                    <td>4 Spoons</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Chopped Chocolate(Optional)</td>
+                    <td>To Taste</td>
+                </tr>
+                
+            </tbody>
+        </table>
+        <h4>How you can make it in 4 steps</h4>
+        <ol>
+            <li>Hydrate the gelatin with 4 tablespoons of water in the microwave for 15 seconds. </li>
+            <li>Place all ingredients in a blender and blend for 3 minutes. </li>
+            <li>Refrigerate for about 12 hours. </li>
+            <li>Once ready, if you wish, add chopped chocolate to decorate. </li>
+        </ol>
+        <h2 id="french-fries">French Fries</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/French_Fries.JPG" alt="Delicious French Fries" width="230">
+        <h4>What you'll need</h4>
+        <table border>
+            <thead>
+                <tr>
+                    <th><strong>Ingredients </strong></th>
+                <th><strong>Quantity</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tclass1">
+                    <td>Potatoes</td>
+                    <td>3</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Oil</td>
+                    <td>1 Liter</td>
+                </tr>
+                <tr class="tclass1">
+                    <td>Salt</td>
+                    <td>To Taste</td>
+                </tr>
+                <tr class="tclass2">
+                    <td>Fluor</td>
+                    <td>2 Spoons</td>
+                </tr>
+            </tbody>
+        </table>
+        <h4>How you can make it in 5 steps</h4>
+        <ol>
+            <li>Put the oil to heat. </li>
+            <li>Meanwhile, peel the potatoes and cut them into sticks. </li>
+            <li>Place the cut potatoes in a bowl and add the flour or starch; shake well so that it mixes in the potatoes. </li>
+            <li>Fry them in very hot oil until golden. </li>
+            <li>Place on paper towels and add salt to taste. </li>
+        </ol>
+        <h3><em>Fonts:</em></h3>
+        <p><strong><em>Carrot Cake:<a target="_blank" href="https://www.tudogostoso.com.br/receita/23-bolo-de-cenoura.html">https://www.tudogostoso.com.br/receita/23-bolo-de-cenoura.html</a></em></strong></p>
+        <p><strong><em>Chicken Straganoff:<a target="_blank" href="https://www.tudogostoso.com.br/receita/197433-strogonoff-de-frango-simples.html">https://www.tudogostoso.com.br/receita/197433-strogonoff-de-frango-simples.html</a></em></strong></p>
+        <p><strong><em>Lasagna:<a target="_blank" href="https://www.tudogostoso.com.br/receita/876-lasanha-de-carne-moida.html">https://www.tudogostoso.com.br/receita/876-lasanha-de-carne-moida.html</a></em></strong></p>
+        
+        <p><strong><em>Ninho Ice Cream:<a target="_blank" href="https://www.tudogostoso.com.br/receita/139920-sorvete-ninho.html">https://www.tudogostoso.com.br/receita/139920-sorvete-ninho.html</a> </em></strong></p>
+        
+        <p><strong><em>French Fries:<a target="_blank" href="https://www.tudogostoso.com.br/receita/89685-batata-frita-perfeita-por-daiane.html"> https://www.tudogostoso.com.br/receita/89685-batata-frita-perfeita-por-daiane.html </a></em></strong></p>
+        
+        <h2><a href="#top">Back to top</a></h2>
+        <h6><em>Created by Valter Netto</em></h6>
+      
+        <p style="font-size:10px;" >Contact:<br>
+        <a target="_blank" href="https://www.facebook.com/valter.nettoo" alt="Facebook Link Account">Facebook</a><br>
+        <a target="_blank" href="mailto:salernovalter@gmail.com?subject=Olá,%20vi%20seu%20site%20de%20receitas">Gmail</a></p>
+    </body>
+    
+</html>
